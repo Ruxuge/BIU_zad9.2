@@ -1,0 +1,31 @@
+.numbers-list-component {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.numbers-list {
+    width: 50vh;
+    margin-top: 30%;
+}
+
+.numbers-list-font {
+    font-size: 1.4rem;
+}
+
+.button {
+    background: inherit;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+.button-size {
+    width: 10vw;
+    height: 10vh;
+}
+
+.button-font {
+    font-size: 1.2rem;
+}
